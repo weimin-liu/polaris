@@ -19,6 +19,6 @@ scipy==1.4.1
 six==1.14.0
 sklearn==0.0
 tornado==6.0.3
-virtualenv==16.1.0
+virtualenv==20.26.6
 xlrd==1.2.0
 XlsxWriter==1.2.7
